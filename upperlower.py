@@ -1,3 +1,4 @@
+#uppercase and lowercase
 s='Hello everyone'
 print(s)
 print(s.upper())
