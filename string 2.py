@@ -1,3 +1,4 @@
+#character frequency
 s="Bangton"
 count=0
 for i in s: 
